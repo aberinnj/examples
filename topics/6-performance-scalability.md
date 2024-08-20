@@ -4,6 +4,6 @@ Demonstrates Performance and Scaling features with Java, JDBC and the Oracle Dat
 
 | No. | Code Sample                  | Description                                                          | Technologies   | References |
 |-----|------------------------------|----------------------------------------------------------------------|:---------------|:----------:|
-| 16  | [rsi-micronaut]()            | Demonstrates Reactive Streams Ingestion with a micronaut application | RSI, Micronaut |            |
-| 17  | [reactive-ucp<sup>★</sup>]() | Shows UCP Asynchronous Extensions                                    | UCP Async      |            |
-| 18  | [jdbc-teq]()                 | Demonstrates basic transactional event queues                        | TxEventQ       |            |
+| f1  | [rsi-micronaut]()            | Demonstrates Reactive Streams Ingestion with a micronaut application | RSI, Micronaut |            |
+| f2  | [reactive-ucp<sup>★</sup>]() | Shows UCP Asynchronous Extensions                                    | UCP Async      |            |
+| f3  | [jdbc-teq]()                 | Demonstrates basic transactional event queues                        | TxEventQ       |            |
