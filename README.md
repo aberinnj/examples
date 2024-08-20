@@ -39,5 +39,11 @@ This repository provides Java samples for developers.
 <sup>★</sup>New Database Feature: Version 23ai<br/>
 <sup>√</sup>Deploy anytime (Kubernetes, Docker, or deploy scripts available)
 
+
+# SQL Shared Examples
+
+| No. | Code Sample                              | Description                  | Features              |
+|-----|------------------------------------------|------------------------------|:----------------------|
+| z1  | [sql-todos](./samples/sql-todos-example) | SQL tables for Todos Example | boolean, tables, user |
 # Feedback/Issues
 Please submit your feedback or any issues on any code sample via GitHub issues.
