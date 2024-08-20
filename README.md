@@ -8,10 +8,10 @@ This repository provides Java samples for developers.
 4. [AI/ML](./topics/3-frameworks.md) - Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu leo egestas, dapibus eros ac, blandit massa. Aenean et ornare lacus. Nam rhoncus mauris in elit fringilla tempor. 
 5. [HA/DR](./topics/3-frameworks.md) - Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu leo egestas, dapibus eros ac, blandit massa. 
 6. [Performance and Scalability](./topics/3-frameworks.md) - Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu leo egestas, dapibus eros ac, blandit massa. Aenean et ornare lacus. Nam rhoncus mauris in elit fringilla tempor. Vivamus enim est, tristique nec mauris vel, fermentum varius mauris.
-7. [Diagnosability](./topics/3-frameworks.md) - Vivamus enim est, tristique nec mauris vel, fermentum varius mauris.
-8. [Manageability](./topics/3-frameworks.md) - Vivamus enim est, tristique nec mauris vel, fermentum varius mauris.
-9. [Security](./topics/3-frameworks.md) -  Vivamus enim est, tristique nec mauris vel, fermentum varius mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu leo egestas, dapibus eros ac, blandit massa.
-10. [Integrations and Connectivity](./topics/3-frameworks.md) - Vivamus enim est, tristique nec mauris vel, fermentum varius mauris.
+7. [Diagnosability](./topics/1-jdbc-basics.md) - Vivamus enim est, tristique nec mauris vel, fermentum varius mauris.
+8. [Manageability](./topics/1-jdbc-basics.md) - Vivamus enim est, tristique nec mauris vel, fermentum varius mauris.
+9. [Security](./topics/1-jdbc-basics.md) -  Vivamus enim est, tristique nec mauris vel, fermentum varius mauris. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu leo egestas, dapibus eros ac, blandit massa.
+10. [Integrations and Connectivity](./topics/1-jdbc-basics.md) - Vivamus enim est, tristique nec mauris vel, fermentum varius mauris.
 
 # List of Code Samples
 
