@@ -38,6 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu leo egestas, dapi
 | f1  | [rsi-micronaut](./samples/jdbc-basic-minimal)                 | Demonstrates Reactive Streams Ingestion with a micronaut application                     | `Performance and Scalability` | RSI, Micronaut                              |
 | f2  | [reactive-ucp](./samples/jdbc-extensions)         | Shows UCP Asynchronous Extensions                                                        | `Performance and Scalability` | UCP Async                                   |
 | f3  | [jdbc-teq](./samples/jdbc-data-types)                         | Demonstrates basic transactional event queues                                            | `Performance and Scalability` | TxEventQ                                    |
+
 <sup>√</sup>Deploy anytime (Kubernetes, Docker, or deploy scripts available)
 
 
