@@ -1,7 +1,7 @@
 # Oracle Java Samples Repository
 This repository provides Java samples for developers.
 
-# Enhancement Requests and Questions
+### Enhancement Requests and Questions
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu leo egestas, dapibus eros ac, blandit massa. Aenean et ornare lacus. Nam rhoncus mauris in elit fringilla tempor. Vivamus enim est, tristique nec mauris vel, fermentum varius mauris.
 
 
