@@ -1,4 +1,4 @@
-# Oracle Java Samples Repository
+# Oracle Database Java Samples Repository
 This repository provides Java samples for developers.
 
 ### Enhancement Requests and Questions
