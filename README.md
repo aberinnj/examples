@@ -1,7 +1,9 @@
-# Oracle Database Java Samples Repository
-This repository provides Java samples for developers.
+# Oracle JDBC, UCP and OJVM Code Samples Repository
+The goals of this repository are:
+1) Publish code samples for Oracle JDBC, UCP, OJVM and open-source frameworks.
+2) Java developers can submit New Features and Enhancements requests as Github issues against this. repository
 
-### Enhancement Requests and Questions
+### New Features and Enhancement Requests
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eu leo egestas, dapibus eros ac, blandit massa. Aenean et ornare lacus. Nam rhoncus mauris in elit fringilla tempor. Vivamus enim est, tristique nec mauris vel, fermentum varius mauris.
 
 
